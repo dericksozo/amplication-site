@@ -83,7 +83,7 @@ const MENU_ITEMS = [
         target: '_blank',
       },
       {
-        title: 'Contact Us',
+        title: 'Contact Us  ',
         href: {
           pathname: '/contact-us',
         },
